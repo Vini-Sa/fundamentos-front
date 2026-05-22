@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+div{
+    background-color: #111;
+    font-family: Arial;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.botao {
+    background-color: #febe01;
+    border-radius: 4px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+p {
+    color: white ;
+    padding: 05px;
+}
+
+.letramenor {
+    font-size: 0.75em;
+    color: #b2b2b2 ;
+}
+.letramaior {
+    font-size: 1.5em;
+}
+
+
+span{
+    color: #febe01;
+}
